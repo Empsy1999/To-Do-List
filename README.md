@@ -1,7 +1,13 @@
 # TO-do list
 
-Brief description of your project.
-
+Using the tech stack described above, produce a simple To Do list project (or similar). You are
+not expected to use the full stack, but it should be written in TypeScript and include the
+following:
+1. CRUD API written in TypeScript that can be deployed via Serverless to AWS
+2. React Native mobile app that interacts with your CRUD API, and utilizes Redux state
+management
+We should be able to view your project in a GitHub repository/repositories and be able to deploy
+and run your code. Please include any instructions for us to do this in a README.md
 ## Tech Stack
 
 - React.js
