@@ -1,4 +1,20 @@
 # TO-do list
+Core
+○ Node.js with TypeScript
+○ Git Version Control via GitHub
+○ Jest
+○ ESLint
+● Backend
+○ Amazon Web Services/Azure
+○ Relational and Non-Relational Databases
+○ Serverless Framework
+○ Headless CMSes like Prismic and Sanity
+○ Low-Code/No-Code platforms like Xano
+● Frontend
+○ React Native for mobile apps on iOS and Android
+○ React for web
+○ Redux
+
 
 Using the tech stack described above, produce a simple To Do list project (or similar). You are
 not expected to use the full stack, but it should be written in TypeScript and include the
